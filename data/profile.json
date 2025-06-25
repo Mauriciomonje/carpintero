@@ -1,0 +1,53 @@
+{
+    "name": "Mauricio Monje",
+
+    "profilePictureUrl": "images/pictures/perfil.png",
+    "resumePdfUrl": "",
+
+    "statusCircleVisible": true,
+    "statusCircleVariant": "available",
+    "statusCircleHoverMessage": "status_message_available_for_freelance",
+
+    "locales": {
+        "en": {
+            "localized_name": "Mauricio {{Monje}}",
+            "localized_name_stylized": " [[Mauricio {{Monje}}]]",
+            "status_message_available_for_freelance": "Available!",
+            "roles": [
+                "Carpenter",
+                "Antique Furniture Restorer",
+                "Moderno Furniture Designer",
+                "Tool Maintenance"
+            ]
+        },
+        "es": {
+            "status_message_available_for_freelance": "¡Disponible!",
+            "roles": [
+                "Carpintero",
+                "Restaurador de Muebles Antiguos",
+                "Diseñador Muebles Modernos",
+                "Mantenimiento de Herramientas"
+            ]
+        },
+        "fr": {
+            "status_message_available_for_freelance": "Disponible pour freelance !",
+            "roles": [
+                "Développeur Backend",
+                "Développeur Frontend",
+                "Ingénieur DevOps",
+                "Designer UX"
+            ]
+        },
+        "ko": {
+            "localized_name": "최민석",
+            "localized_name_stylized": "{{최}}민석",
+            "status_message_available_for_freelance": "프리랜스 가능합니다!",
+            "roles": [
+                "백엔드 개발자",
+                "프론트엔드 개발자",
+                "데브옵스 엔지니어",
+                "UX 디자이너"
+            ]
+        }
+    }
+}
