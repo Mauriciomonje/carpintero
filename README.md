@@ -1,2 +1,0 @@
-# carpintero
-CV- Carpintería 
